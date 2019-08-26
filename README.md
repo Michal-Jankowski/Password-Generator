@@ -1,7 +1,4 @@
-<snippet>
- <content><![CDATA[
- # ${1:Password Generator}
- 
+## Password Generator
  Simple project to randomize password and check its strength.
  Secrets module wass added to provide cryptographically strong random numbers.
  
