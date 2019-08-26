@@ -1,5 +1,5 @@
 <snippet>
- <content><![CDATA[
+ <content><![CDATA]
  # ${1:Password_Generator}
  
  Simple project to randomize password and check its strength.
